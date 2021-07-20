@@ -2,10 +2,8 @@ body{
     background-color: rgb(0, 0, 0);
     width: 570 px;
     height: 720px;
-    background-image: url(img/win.jpg);
-    
+    background-image: url(img/win.jpg);  
 }
-
 .wht{
     background-color: rgb(255, 255, 255);
     width: 70px;
@@ -32,16 +30,14 @@ body{
         font-size: 19px ;
     position: relative;
     border: none;
-    transition-duration: 1s;
-    
+    transition-duration: 1s;    
 }
 .botao:hover{
     background-color: rgb(136, 136, 136);
     border: 0.07em;;
     border-style: solid;
     border-color:rgb(121, 121, 121) ;
-}
-    
+}   
 .botao2{
     background-color: cornflowerblue;
     width: 70px;
@@ -58,16 +54,13 @@ body{
     border: 0.07em;;
     border-style: solid;
     border-color:rgb(4, 46, 123) ;
-}
-    
+}   
 .divbotao{
     text-align: center;
-    padding-bottom: 4px;
-    
+    padding-bottom: 4px;    
 }
 .divbotao2{
-    margin-top:4px;
-    
+    margin-top:4px;    
 }
 .input1{
     width: 283px;  
@@ -78,20 +71,15 @@ body{
     border: none;
     background-color:rgb(194, 194, 194) ;
     outline: 0;
-    cursor: default;
-
-    
+    cursor: default;   
 }
 input[type=number]::-webkit-inner-spin-button { 
-    -webkit-appearance: none;
-    
+    -webkit-appearance: none;    
 }
-
 .div1{
     background-color: rgb(230, 230, 230);
     opacity: 100%;
-    width: 100%;
-   
+    width: 100%;   
     position: relative;
     margin-top: auto;
     margin-right: auto;
